@@ -1,48 +1,24 @@
-Raesfeld 
-Flughafen 
-Berlin 
-Bratwurst 
-Hauptstrasse 
-Brot 
-Gauss 
-Klimaanlage 
-Rammstein
-Musik 
-Porsche 
-BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Audi 
-Schloss 
-Munich 
-wettbewerbsfaehig
-Mehlhase 
-Gebaeck 
-Baeckerei 
-Hund
-Raesfeld
-Airport
-Berlin
-bratwurst
-Main road
-loaf
-Gauss
-air conditioner
-Rammstein
-music
-Porsche
-BMW
-Beer garden
-Ratskeller
-Dirndel
-Lederhose
-Audi
-lock
-Munich
-competitive
-Flour bunny
-Pastries
-Bakery
-dog
+Raesfeld        Raesfeld 
+Flughafen       Airport 
+Berlin          Berlin 
+Bratwurst       bratwurst 
+Hauptstrasse    Main road 
+Brot            loaf 
+Gauss           Gauss 
+Klimaanlage     air conditioner 
+Rammstein       Rammstein
+Musik           music 
+Porsche         Porsche 
+BMW             BMW 
+Biergarten      Beer garden 
+Ratskeller      Ratskeller 
+Dirndel         Dirndel 
+Lederhose       Lederhose 
+Audi            Audi 
+Schloss         lock 
+Munich          Munich 
+wettbewerbsfaehig competitive
+Mehlhase        Flour bunny 
+Gebaeck         Pastries 
+Baeckerei       Bakery 
+Hund            dog
